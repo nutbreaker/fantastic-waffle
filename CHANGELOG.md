@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.11.0...v1.12.0) (2020-01-17)
+
+
+### Features
+
+* add git username ([87dae42](https://github.com/nutbreaker/fantastic-waffle/commit/87dae429ae42c26d01492bf0b3b03f79f4690e2c))
+
 # [1.11.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.10.2...v1.11.0) (2020-01-17)
 
 
