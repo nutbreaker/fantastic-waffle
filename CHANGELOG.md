@@ -1,3 +1,25 @@
+# [1.9.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.8.0...v1.9.0) (2020-01-17)
+
+
+### Features
+
+* rebase master into develop with force push ([9983484](https://github.com/nutbreaker/fantastic-waffle/commit/99834846331225db3a9f8da71eba7fb42e505dfc))
+
+# [1.8.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.7.0...v1.8.0) (2020-01-17)
+
+
+### Features
+
+* merge master into develop ([d98c24d](https://github.com/nutbreaker/fantastic-waffle/commit/d98c24da4f6cbb7f2e5d109e5dd343eb212a8f5c))
+
+# [1.7.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.6.0...v1.7.0) (2020-01-17)
+
+
+### Features
+
+* log add ([286c545](https://github.com/nutbreaker/fantastic-waffle/commit/286c545aae65edaee0150f9589b705de89abcb90))
+* log current date ([8e7f5cd](https://github.com/nutbreaker/fantastic-waffle/commit/8e7f5cdd9d802f27f49fa12d66697381c1850d50))
+
 # [1.6.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.5.0...v1.6.0) (2020-01-17)
 
 
