@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.7.0...v1.8.0) (2020-01-17)
+
+
+### Features
+
+* merge master into develop ([d98c24d](https://github.com/nutbreaker/fantastic-waffle/commit/d98c24da4f6cbb7f2e5d109e5dd343eb212a8f5c))
+
 # [1.7.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.6.0...v1.7.0) (2020-01-17)
 
 
