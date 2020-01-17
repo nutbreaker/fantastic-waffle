@@ -4,7 +4,7 @@
   "description": "",
   "main": "scr/app.js",
   "publishConfig": {
-    "@nutbreaker:registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/nutbreaker"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
