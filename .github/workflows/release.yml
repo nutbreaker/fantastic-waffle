@@ -25,4 +25,5 @@ jobs:
       - name: Merge master into develop
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_AUTHOR_NAME: fantastic-waffle-ci-bot
         run: git branch -f develop master && git push -u origin develop
