@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/nutbreaker/fantastic-waffle/compare/v1.10.0...v1.10.1) (2020-01-17)
+
+
+### Bug Fixes
+
+* force push --all origin ([a0bdb21](https://github.com/nutbreaker/fantastic-waffle/commit/a0bdb215b0b995a83125e425f2dc21f8642567af))
+
 # [1.10.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.9.0...v1.10.0) (2020-01-17)
 
 
