@@ -25,4 +25,4 @@ jobs:
       - name: Merge master into develop
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: git branch -f develop master && git push -f --all origin
+        run: git branch -f develop master
