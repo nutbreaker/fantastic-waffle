@@ -1,3 +1,10 @@
+## [1.10.2](https://github.com/nutbreaker/fantastic-waffle/compare/v1.10.1...v1.10.2) (2020-01-17)
+
+
+### Bug Fixes
+
+* push error ([0b9faa3](https://github.com/nutbreaker/fantastic-waffle/commit/0b9faa3a2e64823a4d4f06ef0b5908f23668a672))
+
 ## [1.10.1](https://github.com/nutbreaker/fantastic-waffle/compare/v1.10.0...v1.10.1) (2020-01-17)
 
 
