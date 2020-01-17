@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.10.2...v1.11.0) (2020-01-17)
+
+
+### Features
+
+* push develop to origin ([2093a8e](https://github.com/nutbreaker/fantastic-waffle/commit/2093a8e654a47ca620e6cc236a57ff62edf87561))
+
 ## [1.10.2](https://github.com/nutbreaker/fantastic-waffle/compare/v1.10.1...v1.10.2) (2020-01-17)
 
 
