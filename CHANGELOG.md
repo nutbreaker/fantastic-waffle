@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.8.0...v1.9.0) (2020-01-17)
+
+
+### Features
+
+* rebase master into develop with force push ([9983484](https://github.com/nutbreaker/fantastic-waffle/commit/99834846331225db3a9f8da71eba7fb42e505dfc))
+
 # [1.8.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.7.0...v1.8.0) (2020-01-17)
 
 
