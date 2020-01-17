@@ -6,4 +6,5 @@
     console.log('DATE', Date());
 
     console.log('ADD 2 + 2', 2 + 2);
+
 })()

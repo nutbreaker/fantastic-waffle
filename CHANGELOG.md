@@ -1,3 +1,18 @@
+# [1.6.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.5.0...v1.6.0) (2020-01-17)
+
+
+### Features
+
+* log add ([9d1c961](https://github.com/nutbreaker/fantastic-waffle/commit/9d1c961de39263a3077e8e7d1ca8a31d4fbfa727))
+
+# [1.5.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.4.0...v1.5.0) (2020-01-17)
+
+
+### Features
+
+* **app:** add app version ([ec2898b](https://github.com/nutbreaker/fantastic-waffle/commit/ec2898b97e165df7dfd69de48f2af0a6c7c05b60))
+* **app:** create app.js ([ee0d64c](https://github.com/nutbreaker/fantastic-waffle/commit/ee0d64c1ccdf43a3cbd03074be37b1b125beadd0))
+
 # [1.4.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.3.0...v1.4.0) (2020-01-17)
 
 
