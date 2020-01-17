@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.3.0...v1.4.0) (2020-01-17)
+
+
+### Features
+
+* track master and develop branches ([dc26064](https://github.com/nutbreaker/fantastic-waffle/commit/dc260648551e960d178684e662d7da4b4205acda))
+
 # [1.3.0](https://github.com/nutbreaker/fantastic-waffle/compare/v1.2.0...v1.3.0) (2020-01-17)
 
 
