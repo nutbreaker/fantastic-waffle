@@ -34,15 +34,16 @@
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
-  "branches": [
-    "master"
-  ],
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
     ]
   },
   "release": {
+    "branches": [
+      "master",
+      "develop"
+    ],
     "prepare": [
       [
         "@semantic-release/changelog",
