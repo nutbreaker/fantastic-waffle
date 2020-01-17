@@ -1,3 +1,3 @@
 (()=>{
-    console.log('APP loaded');
+    console.log('APP loaded, version', '1.4.0');
 })()
